@@ -1,10 +1,11 @@
-# Matt's everything cheatsheet
+## Matt's everything cheatsheet
 
-## docker
+### docker
 
-List running containers
-
-`docker ps`
+List running containers 
+```powershell
+docker ps
+```
 
 List all containers
 
