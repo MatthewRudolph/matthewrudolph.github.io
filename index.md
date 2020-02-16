@@ -1,32 +1,15 @@
-## Welcome to GitHub Pages
+## Hi, I'm Matt
 
-You can use the [editor on GitHub](https://github.com/MatthewRudolph/matthewrudolph.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These are my development notes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Not really a blog, more a collection of notes made whilst I ~learn~ play with new technologies
 
-### Markdown
+### Cheatsheets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I never seem to be able to remember the command and syntax for docker, node, npm, or any shell tools really. There are loads of cheatsheets out there and I'm forver using Goggle to find the right one. This is my own list of commands I use frquently but can never remember the exact name and syntax off.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Matt's everything cheatsheet](everything_cheatsheet.md).
 
 ### Jekyll Themes
 
